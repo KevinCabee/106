@@ -1,0 +1,23 @@
+h1 {
+    color: azure;
+    background-color: black;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    height: 100vh;
+}
+
+#list {
+    background-color: aquamarine;
+    height: 100%;
+    flex: 2;
+}
+
+#form {
+    background-color: antiquewhite;
+    height: 100%;
+    flex: 2;
+    
+}
